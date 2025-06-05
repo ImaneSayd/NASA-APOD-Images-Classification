@@ -101,7 +101,7 @@ The primary goal is to classify APOD images into four categories: 'galaxy', 'neb
 •	LSTM (Long Short Term Memory) for processing tokenized textual description.
 
 
-This model is designed to classify NASA apod data into four categories: galaxy, nebula, star and other. just as my teammate said above.
+This model is designed to classify NASA apod data into four categories: galaxy, nebula, star and other. Just as stated above.
 
 ### DATA SETUP
 Using an already preprocessed input from the previous task:
