@@ -68,7 +68,7 @@ The primary goal is to classify APOD images into four categories: 'galaxy', 'neb
        
 
 ### Displaying the First 5 Training Images
-![image](https://github.com/user-attachments/assets/920a89a1-9f05-4de5-bfa8-9d32e4f0e718)
+![image](https://github.com/user-attachments/assets/43d44e80-9a34-4e62-a63d-c55ab7600f07)
 ![image](https://github.com/user-attachments/assets/bf5722dd-e9c7-45db-b719-e2c1628a1360)
 ![image](https://github.com/user-attachments/assets/69ff06e9-55af-414c-8c2a-995c9a754639)
 ![image](https://github.com/user-attachments/assets/070b2f2b-26f4-41e3-bc91-12d73e9fb320)
