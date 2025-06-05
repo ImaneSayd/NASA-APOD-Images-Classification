@@ -9,13 +9,13 @@
 
 • Yağmur Senanur Eroğlu: Performance Measurement
 
-## 1.Introduction
+## 1. Introduction
 The objective of this project is to develop a deep learning model capable of classifying astronomical images from NASA's Astronomy Picture of the Day (APOD) dataset into 4 distinct categories: ‘galaxy’, ‘star’, ‘nebula’ and ‘other’. By combining convolutional neural networks (CNNs) (for image classification) and LSTM (for text classification), the model aims to accurately identify and categorize celestial objects, enhancing our understanding and organization of astronomical imagery.
 
-## 2.Problem Statement
+## 2. Problem Statement
 The primary goal is to classify APOD images into four categories: 'galaxy', 'nebula', 'star', and 'other'. This classification task is crucial for organizing vast astronomical datasets and facilitating efficient retrieval and analysis of celestial images.
 
-## 3.Data Description
+## 3. Data Description
 •	Source: NASA's Astronomy Picture of the Day (APOD) dataset, found on Kaggle: https://www.kaggle.com/datasets/thomasanquetil/nasa-astronomy-picture-of-the-day-apod-extended/data
 
 
